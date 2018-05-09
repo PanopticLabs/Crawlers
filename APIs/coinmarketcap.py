@@ -46,4 +46,4 @@ def getPriceStats(limit):
         coins[symbol]['week_change'] = week_change
         coins[symbol]['last_update'] = last_update
 
-        return coins
+    return coins
